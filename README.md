@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchit1938&" alt="suchit1938" /></p>
 
 
+[![An image of @suchit1938's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suchit1938)](https://holopin.io/@suchit1938)
